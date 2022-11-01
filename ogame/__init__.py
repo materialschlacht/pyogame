@@ -1151,7 +1151,6 @@ class OGame(object):
         else:
             return False
 
-
     def phalanx(self, coordinates, id):
         raise NotImplemented(
             'Phalanx get you banned if used with invalid parameters')
